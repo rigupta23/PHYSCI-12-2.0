@@ -3,8 +3,12 @@ body {
     line-height: 1.8;
     color: Black;
     padding-top: 0px !important;
-    background-color: lightblue;
+    background-color:lightblue;
   }
+
+title {
+     background-color:darkseagreen;
+}
 
 p {font-size: 16px;}
 .margin {margin-bottom: 15px;}
