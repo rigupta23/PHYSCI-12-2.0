@@ -1,8 +1,9 @@
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: DodgerBlue;
+    color: Black;
     padding-top: 0px !important;
+    background-color: lightblue;
   }
 
 p {font-size: 16px;}
